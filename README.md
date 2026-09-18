@@ -70,4 +70,4 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 
 ## Result: 
 Thus the DSB-SC-AM Modulation and Demodulation is generated. 
----
+
